@@ -1,2 +1,3 @@
-# Probability-and-Statistics-
-This file contain CEN222 term project which written with python using numpy and sympy.
+CENG222 Project
+Description
+This repository contains the Jupyter Notebook for the CENG222 course, focusing on a term project that involves Python, NumPy, and Pyplot. The notebook provides detailed guidelines, important notes, and resources necessary for successfully completing the project.
